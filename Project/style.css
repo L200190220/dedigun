@@ -1,0 +1,36 @@
+.row1{
+	display: flex;
+	justify-content: center;
+	margin-top: 5vw;
+	font-size: 30px;
+	font-family: Times New Roman;
+}
+.row2{
+	display: flex;
+	justify-content: center;
+	margin-top: 15vw;
+	margin-right: 10px;
+}
+.cont{
+	margin-top: 25vw;
+}
+
+.SL{
+	color: blue;
+	margin-right: 10px;
+	font-size: 30px;
+}
+.RB{
+	color: red;
+	margin-right: 10px;
+	font-size: 30px;
+}
+.SY{
+	color: green;
+	margin-right: 10px;
+	font-size: 30px;
+}
+.UA{
+	color: violet;
+	font-size: 30px;
+}
